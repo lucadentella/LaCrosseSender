@@ -35,4 +35,4 @@ You are ready to program the sketch in your board and run it. If you open the Se
 You may need to reset your weather station (remove the batteries for a couple of minutes) before being able to receive the information.
 
 ## Links
-- My blog, where I explain this project in details
+- [My blog](https://www.lucadentella.it/en/2024/11/03/da-home-assistant-a-stazione-meteo-la-crosse/), where I explain this project in details
